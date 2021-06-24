@@ -12,6 +12,6 @@ I am an experimental physicist who enjoys learning and making discoveries about 
 
 <!-- Given the recent technological advances that make it possible to put quantum systems of tens to hundreds of qubits under control, the demand to connect and interface quantum systems is imminent.  -->
 
-I currently work as a postdoc at [Berkeley EECS](https://eecs.berkeley.edu/) in [Alp Sipahigil's group](https://quantumdevices.berkeley.edu/). 
+I have been very fornutate to collaborate with many talented scientists. I currently work as a postdoc at [Berkeley EECS](https://eecs.berkeley.edu/) in [Alp Sipahigil's group](https://quantumdevices.berkeley.edu/). Prior to Berkeley, I completed my PhD in [Misha Lukin's group](https://lukin.physics.harvard.edu/) at [Harvard Physics](https://www.physics.harvard.edu/) and my undergraduate degree at [MIT](https://web.mit.edu/).
 
-Also see my [CV](samutpraphoot_cv_2021.pdf) and my [Google Scholar](https://scholar.google.com/citations?user=TU4yHVYAAAAJ&hl=en) profile.
+For more, please see my [CV](samutpraphoot_cv_2021.pdf) and my [Google Scholar](https://scholar.google.com/citations?user=TU4yHVYAAAAJ&hl=en) profile.
