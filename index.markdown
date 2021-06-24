@@ -6,7 +6,7 @@ layout: home
 ---
 [<img src="/images/profile.png" style="float: right; width: 30%; margin-left: 5%; margin-bottom: 0.5em;">](/images/profile.png)
 
-I am an experimental physicist who enjoys learning and making discoveries about the science and engineering that go into building quantum devices. 
+I am an experimental physicist who enjoys learning and making discoveries about the science and engineering that go into building quantum devices. My goal is to explore ways to build interfaces for different quantum systems to 
 
  <!-- that take advantage of quantum physics, from computers to sensors.  -->
 
