@@ -6,6 +6,8 @@ permalink: /pubs/
 <!-- 
 I am an experimental physicist/engineer in the [Quantum Devices Group](https://quantumdevices.berkeley.edu/) at [Berkeley EECS](https://eecs.berkeley.edu/).  -->
 
+For more, please see my [CV](samutpraphoot_cv_2021.pdf) and my [Google Scholar](https://scholar.google.com/citations?user=TU4yHVYAAAAJ&hl=en) profile.
+
 ## Papers
 
 T. Ðorđević, P. Samutpraphoot, P. L. Ocola, H. Bernien, B. Grinkemeyer, I. Dimitrova, V. Vuletić, and M. D. Lukin. Nanophotonic quantum interface and transportable entanglement for atom arrays, \
