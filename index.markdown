@@ -6,7 +6,7 @@ layout: home
 ---
 [<img src="/images/profile.png" style="float: right; width: 30%; margin-left: 5%; margin-bottom: 0.5em;">](/images/profile.png)
 
-As an experimental physicist, I enjoy learning and making discoveries about the science and engineering that go into building quantum devices. My goal is to explore ways to interface different quantum systems to enable new capabilities and perform bigger tasks.
+As an experimental physicist, I enjoy learning and making discoveries about the science and engineering that go into building quantum devices. My research direction is to explore ways to interface different quantum systems to enable new capabilities and perform bigger tasks.
 
  <!-- that take advantage of quantum physics, from computers to sensors.  -->
 
