@@ -3,15 +3,13 @@ layout: page
 title: Publications
 permalink: /pubs/
 ---
-<!-- 
-I am an experimental physicist/engineer in the [Quantum Devices Group](https://quantumdevices.berkeley.edu/) at [Berkeley EECS](https://eecs.berkeley.edu/).  -->
 
 For more, please see my [CV](samutpraphoot_cv_2021.pdf) and my [Google Scholar](https://scholar.google.com/citations?user=TU4yHVYAAAAJ&hl=en) profile.
 
 ## Papers
 
-T. Ðorđević, P. Samutpraphoot, P. L. Ocola, H. Bernien, B. Grinkemeyer, I. Dimitrova, V. Vuletić, and M. D. Lukin. Nanophotonic quantum interface and transportable entanglement for atom arrays, \
-[arXiv:2105.06485](https://arxiv.org/abs/2105.06485).
+T. Ðorđević, P. Samutpraphoot, P. L. Ocola, H. Bernien, B. Grinkemeyer, I. Dimitrova, V. Vuletić, and M. D. Lukin. Entanglement transport and a nanophotonic interface for atoms in optical tweezers, \
+[Science eabi9917 (2021)](https://science.sciencemag.org/content/early/2021/08/11/science.abi9917.abstract); [arXiv:2105.06485](https://arxiv.org/abs/2105.06485).
 
 P. Samutpraphoot, T. Ðorđević, P. L. Ocola, H. Bernien, C. Senko, V. Vuletić, and M. D. Lukin. Strong coupling of two individually controlled atoms via a nanophotonic cavity, \
 [Physical Review Letters 124, 063602 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.063602);  [arXiv:1909.09108](https://arxiv.org/abs/1909.09108).
