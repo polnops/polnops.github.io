@@ -10,7 +10,7 @@ permalink: /research/
 
 ### Interfacing atoms in optical tweezers with nanophotonics
 
-[<img src="/images/fromfiber3.png" style="float: left; width: 50%; margin-right: 5%; margin-bottom: 0.5em;">](/images/fromfiber3.png)
+[<img src="/images/fromfiber3.png" style="float: left; width: 50%; margin-right: 5%; margin-bottom: 1em;">](/images/fromfiber3.png)
 
 Atoms in tweezer arrays have recently emerged as a leading platform for quantum simulation and information processing. 
 These systems are growing more complex, and there is a demand for optical interfaces to enable efficient readout and better connectivity. 
@@ -28,7 +28,7 @@ P. Samutpraphoot, A quantum network node based on a nanophotonic interface for a
 
 ### Valley transport in topological Dirac materials 
 
-[<img src="/images/figintro.001.png" style="float: right; width: 50%;">](/images/figintro.001.png)
+[<img src="/images/figintro.001.png" style="float: right; width: 50%;  margin-bottom: 1em;">](/images/figintro.001.png)
 
 Conventional electronics relies on the manipulation of electrons as charge carriers. However, electrons in particular quantum materials can possess extra degrees of freedom such as spin or valley. We theoretically investigated valley transport phenomena arising from Berry curvature, a property associated with band topology in gapped Dirac materials such as graphene on hexagonal Boron Nitride (G/hBN).
 
