@@ -18,7 +18,6 @@ These systems are growing more complex, and there is a demand for optical interf
 We realized such interface using a nanophotonic cavity and demonstrated quantum control of two atoms strongly coupled to it. 
 In the most recent work, we entangled two atoms via the cavity and "shipped" the entanglement away from the system. 
 
-
 T. Ðorđević, P. Samutpraphoot, P. L. Ocola, H. Bernien, B. Grinkemeyer, I. Dimitrova, V. Vuletić, and M. D. Lukin. Entanglement transport and a nanophotonic interface for atoms in optical tweezers, \
 [Science eabi9917 (2021)](https://science.sciencemag.org/content/early/2021/08/11/science.abi9917.abstract); [arXiv:2105.06485](https://arxiv.org/abs/2105.06485).
 
