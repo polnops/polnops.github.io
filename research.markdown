@@ -12,7 +12,7 @@ permalink: /research/
 
 <!-- We built a nanoscale optical interface for systems of atoms in optical tweezers. We demonstrated that  -->
 
-[<img src="/images/fromfiber3.png" style="float: right; width: 30%; margin-left: 5%; margin-bottom: 0.5em;">](/images/fromfiber3.png)
+[<img src="/images/fromfiber3.png" style="width: 100%; margin-left: 5%; margin-bottom: 0.5em;">](/images/fromfiber3.png)
 
 T. Ðorđević, P. Samutpraphoot, P. L. Ocola, H. Bernien, B. Grinkemeyer, I. Dimitrova, V. Vuletić, and M. D. Lukin. Entanglement transport and a nanophotonic interface for atoms in optical tweezers, \
 [Science eabi9917 (2021)](https://science.sciencemag.org/content/early/2021/08/11/science.abi9917.abstract); [arXiv:2105.06485](https://arxiv.org/abs/2105.06485).
