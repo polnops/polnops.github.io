@@ -10,7 +10,7 @@ permalink: /research/
 
 ### Interfacing atoms in optical tweezers with nanophotonics
 
-[<img src="/images/fromfiber3.png" style="float: left; width: 50%; margin-right: 5%; margin-bottom: 1em;">](/images/fromfiber3.png)
+[<img src="/images/fromfiber3.png" style="float: right; width: 50%; margin-left: 5%; margin-bottom: 1em;">](/images/fromfiber3.png)
 
 Atoms in tweezer arrays have recently emerged as a leading platform for quantum simulation and information processing. 
 These systems are growing more complex, and there is a demand for optical interfaces to enable efficient readout and better connectivity. 
