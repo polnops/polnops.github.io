@@ -8,9 +8,7 @@ layout: home
 
 As an experimental physicist, I enjoy learning about quantum systems and the technology that goes into building them. My research direction is to explore ways to interface different platforms to enable new capabilities and perform bigger tasks.
 
- <!-- that take advantage of quantum physics, from computers to sensors.  -->
 
-<!-- Given the recent technological advances that make it possible to put quantum systems of tens to hundreds of qubits under control, the demand to connect and interface quantum systems is imminent.  -->
 
 I have been very fortunate to collaborate with many talented scientists. I currently work as a postdoc in [Alp Sipahigil's group](https://quantumdevices.berkeley.edu/) at [Berkeley EECS](https://eecs.berkeley.edu/). I did my PhD in [Misha Lukin's group](https://lukin.physics.harvard.edu/) at [Harvard Physics](https://www.physics.harvard.edu/) and my undergraduate studies at [MIT](https://web.mit.edu/).
 
