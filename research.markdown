@@ -30,9 +30,12 @@ P. Samutpraphoot, A quantum network node based on a nanophotonic interface for a
 
 ### Valley transport in topological Dirac materials 
 
-[<img src="/images/figintro.001.png" style="float: right; width: 40%;  margin-bottom: 0.25em;">](/images/figintro.001.png)
+[<img src="/images/figintro.001.png" style="float: right; width: 52.5%;  margin-bottom: 0.25em;">](/images/figintro.001.png)
 
 Conventional electronics relies on the manipulation of electrons as charge carriers. However, electrons in particular quantum materials can possess extra degrees of freedom such as spin or valley. We theoretically investigated valley transport phenomena arising from Berry curvature, a property associated with band topology in gapped Dirac materials such as graphene on hexagonal Boron Nitride (G/hBN).
+
+<br>
+
 
 Y. D. Lensky, J. C. W. Song, P. Samutpraphoot, and L. S. Levitov. Topological Valley Currents in Gapped Dirac Materials, \
 [Physical Review Letters 114 (25), 256601 (2015)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.114.256601);  [arXiv:1412.1808](https://arxiv.org/abs/1412.1808).
