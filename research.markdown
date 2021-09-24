@@ -2,6 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
+order: 1
 ---
 
  <!-- that take advantage of quantum physics, from computers to sensors.  -->
@@ -10,25 +11,28 @@ permalink: /research/
 
 ### Interfacing atoms in optical tweezers with nanophotonics
 
-
 Atoms in tweezer arrays have recently emerged as a leading platform for quantum simulation and information processing. 
-These systems are growing more complex, and there is a demand for optical interfaces to enable efficient readout and better connectivity. 
+As these systems are growing more complex, there is an increasing demand for optical interfaces to enable efficient readout and better connectivity. 
 We realized such interface using a nanophotonic cavity and demonstrated quantum control of two atoms strongly coupled to it. 
-In the most recent work, we entangled two atoms via the cavity and "shipped" the entanglement away from the system. 
+In the most recent work, we entangled two atoms via the cavity and "shipped" the entangled atoms away from the system. 
 
 [<img src="/images/fromfiber3.png" style="width: 85%; margin-left: 5%; margin-right: 10%; margin-top: 0.5em; margin-bottom: 1em;">](/images/fromfiber3.png)
 
 
+T. Ðorđević†, P. Samutpraphoot†, P. L. Ocola†, H. Bernien, B. Grinkemeyer, I. Dimitrova, V. Vuletić, and M. D. Lukin. Entanglement transport and a nanophotonic interface for atoms in optical tweezers, \
+[Science 373, 1511 (2021).](https://www.science.org/doi/10.1126/science.abi9917); [arXiv:2105.06485](https://arxiv.org/abs/2105.06485).
 
-T. Ðorđević, P. Samutpraphoot, P. L. Ocola, H. Bernien, B. Grinkemeyer, I. Dimitrova, V. Vuletić, and M. D. Lukin. Entanglement transport and a nanophotonic interface for atoms in optical tweezers, \
-[Science eabi9917 (2021)](https://science.sciencemag.org/content/early/2021/08/11/science.abi9917.abstract); [arXiv:2105.06485](https://arxiv.org/abs/2105.06485).
+>Perspective article on this work:\
+A. Kaufman, "Photons and qubits get a better connection", [Science (Quantum Engineering Perspective), 373, 1436-1437 (2021).](https://www.science.org/doi/10.1126/science.abk2617)
 
-P. Samutpraphoot, T. Ðorđević, P. L. Ocola, H. Bernien, C. Senko, V. Vuletić, and M. D. Lukin. Strong coupling of two individually controlled atoms via a nanophotonic cavity, \
+P. Samutpraphoot†, T. Ðorđević†, P. L. Ocola†, H. Bernien, C. Senko, V. Vuletić, and M. D. Lukin. Strong coupling of two individually controlled atoms via a nanophotonic cavity, \
 [Physical Review Letters 124, 063602 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.063602);  [arXiv:1909.09108](https://arxiv.org/abs/1909.09108).
 
 P. Samutpraphoot, A quantum network node based on a nanophotonic interface for atoms in optical tweezers, [Thesis](../dissertation.pdf): Ph.D., Harvard University, Department of Physics, 2021.
 
-### Valley transport in topological Dirac materials 
+
+
+### Valley transport in topological Dirac materials (theory)
 
 [<img src="/images/figintro.001.png" style="float: right; width: 52.5%;  margin-bottom: 0.25em;">](/images/figintro.001.png)
 
@@ -44,6 +48,8 @@ J. C. W. Song, P. Samutpraphoot, and L. S. Levitov. Topological Bands in G/h-BN 
 [Proceedings of the National Academy of Sciences 112 (35), 10879- 10883 (2015)](https://www.pnas.org/content/112/35/10879.short);  [arXiv:1404.4019](https://arxiv.org/abs/1404.4019).
 
 P. Samutpraphoot, Anomalous Hall effect and persistent valley currents in graphene p-n junctions, [Thesis](https://dspace.mit.edu/handle/1721.1/92691): S.B., Massachusetts Institute of Technology, Department of Physics, 2014.
+
+
 
 ### Narrow-linewidth lasers
 

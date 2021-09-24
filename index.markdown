@@ -6,12 +6,9 @@ layout: home
 ---
 [<img src="/images/profile.png" style="float: right; width: 30%; margin-left: 5%; margin-bottom: 0.5em;">](/images/profile.png)
 
-As an experimental physicist, I enjoy learning about quantum systems and the technology that goes into building them. My research direction is to explore ways to interface different platforms to enable new capabilities and perform bigger tasks.
+Hi, I'm Po Samutpraphoot. I'm a postdoc in Alp Sipahigil's [Quantum Devices group](https://quantumdevices.berkeley.edu/) at [Berkeley EECS](https://eecs.berkeley.edu/). I enjoy learning about quantum systems and the technology that goes into engineering them. In my research, I explore ways to interface different platforms to enable new capabilities and perform bigger tasks.
 
 
-
-I have been very fortunate to collaborate with many talented scientists. I currently work as a postdoc in [Alp Sipahigil's group](https://quantumdevices.berkeley.edu/) at [Berkeley EECS](https://eecs.berkeley.edu/). I did my PhD in [Misha Lukin's group](https://lukin.physics.harvard.edu/) at [Harvard Physics](https://www.physics.harvard.edu/) and my undergraduate studies at [MIT](https://web.mit.edu/).
-
-<!-- , where I worked in Vladan Vuletic and Leonid Levitov's groups.  -->
+I have been very fortunate to collaborate with many talented scientists.  Prior to Berkeley, I did my PhD in [Misha Lukin's group](https://lukin.physics.harvard.edu/) at [Harvard Physics](https://www.physics.harvard.edu/) and my undergraduate studies at [MIT](https://web.mit.edu/), where I worked with [Vladan Vuletic](https://www.rle.mit.edu/eapg/) and [Leonid Levitov](http://www.mit.edu/~levitov/).  
 
 For more, please see my [CV](samutpraphoot_cv_2021.pdf) and [Google Scholar](https://scholar.google.com/citations?user=TU4yHVYAAAAJ&hl=en) profile.
