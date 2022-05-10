@@ -10,7 +10,7 @@ For more, please see my [CV](samutpraphoot_cv_2022.pdf) and my [Google Scholar](
 ## Papers
 
 **Entanglement transport and a nanophotonic interface for atoms in optical tweezers** \
-T. Ðorđević†, P. Samutpraphoot†, P. L. Ocola†, H. Bernien, B. Grinkemeyer, I. Dimitrova,\
+T. Ðorđević†, P. Samutpraphoot†, P. L. Ocola†, H. Bernien, B. Grinkemeyer, I. Dimitrova,
 V. Vuletić, and M. D. Lukin \
 [Science 373, 1511 (2021).](https://www.science.org/doi/10.1126/science.abi9917); [arXiv:2105.06485](https://arxiv.org/abs/2105.06485).
 
@@ -34,9 +34,9 @@ P. Samutpraphoot, S. Weber, Q. Lin, D. Gangloff, A. Bylinskii, B. Braverman, A. 
 ## Theses
 
 **A quantum network node based on a nanophotonic interface for atoms in optical tweezers** \
-P. Samutpraphoot \
+P. Samutpraphoot |
 [Thesis](../dissertation.pdf): Ph.D., Harvard University, Department of Physics, 2021.
 
 **Anomalous Hall effect and persistent valley currents in graphene p-n junctions** \
-P. Samutpraphoot \
+P. Samutpraphoot |
 [Thesis](https://dspace.mit.edu/handle/1721.1/92691): S.B., Massachusetts Institute of Technology, Department of Physics, 2014.

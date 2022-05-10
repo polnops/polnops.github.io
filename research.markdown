@@ -20,21 +20,21 @@ In the most recent work, we entangled two atoms via the cavity and "shipped" the
 
 
 **Entanglement transport and a nanophotonic interface for atoms in optical tweezers** \
-T. Ðorđević†, P. Samutpraphoot†, P. L. Ocola†, H. Bernien, B. Grinkemeyer, I. Dimitrova, \ 
+T. Ðorđević†, P. Samutpraphoot†, P. L. Ocola†, H. Bernien, B. Grinkemeyer, I. Dimitrova, 
 V. Vuletić, and M. D. Lukin \
 [Science 373, 1511 (2021).](https://www.science.org/doi/10.1126/science.abi9917); [arXiv:2105.06485](https://arxiv.org/abs/2105.06485).
 
 
 >Perspective article on this work:\
 **Photons and qubits get a better connection** \
-A. Kaufman \ [Science (Quantum Engineering Perspective), 373, 1436-1437 (2021).](https://www.science.org/doi/10.1126/science.abk2617)
+A. Kaufman | [Science (Quantum Engineering Perspective), 373, 1436-1437 (2021).](https://www.science.org/doi/10.1126/science.abk2617)
 
 **Strong coupling of two individually controlled atoms via a nanophotonic cavity** \
 P. Samutpraphoot†, T. Ðorđević†, P. L. Ocola†, H. Bernien, C. Senko, V. Vuletić, and M. D. Lukin  \
 [Physical Review Letters 124, 063602 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.063602);  [arXiv:1909.09108](https://arxiv.org/abs/1909.09108).
 
 **A quantum network node based on a nanophotonic interface for atoms in optical tweezers** \
-P. Samutpraphoot \
+P. Samutpraphoot |
 [Thesis](../dissertation.pdf): Ph.D., Harvard University, Department of Physics, 2021.
 
 
@@ -57,7 +57,7 @@ J. C. W. Song, P. Samutpraphoot, and L. S. Levitov \
 [Proceedings of the National Academy of Sciences 112 (35), 10879- 10883 (2015)](https://www.pnas.org/content/112/35/10879.short);  [arXiv:1404.4019](https://arxiv.org/abs/1404.4019).
 
 **Anomalous Hall effect and persistent valley currents in graphene p-n junctions** \
-P. Samutpraphoot \
+P. Samutpraphoot |
 [Thesis](https://dspace.mit.edu/handle/1721.1/92691): S.B., Massachusetts Institute of Technology, Department of Physics, 2014.
 
 
