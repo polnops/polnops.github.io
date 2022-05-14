@@ -11,7 +11,7 @@ order: 1
 ### Telecom emitters in silicon photonics (ongoing project)
 Silicon not only plays a major role in semiconductor electronics but also
 offers tools to manipulate light in a scalable manner thanks to 
-the compability of photonic circuits fabrication with the advanced CMOS processes. 
+the compatibility of photonic circuits fabrication with the advanced CMOS processes. 
 In this project, we introduce quantum emitters to silicon photonics, building an efficient interface between them that will enable on-chip quantum photonic 
 devices such as telecom single photon sources and 
 exploring possibilities of performing photonic quantum information processing

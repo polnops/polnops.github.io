@@ -13,7 +13,7 @@ In my research, I explore ways to interface different platforms, in particular a
 in quantum information processing.
 
 I have been very fortunate to collaborate with groups of talented scientists.  
-Prior to joining Berkeley, I did my PhD work in [Misha Lukin's group](https://lukin.physics.harvard.edu/) at [Harvard Physics](https://www.physics.harvard.edu/) 
+Before joining Berkeley, I did my PhD work in [Misha Lukin's group](https://lukin.physics.harvard.edu/) at [Harvard Physics](https://www.physics.harvard.edu/) 
 and my undergraduate studies at [MIT](https://web.mit.edu/), where I worked in the groups of [Vladan Vuletic](https://www.rle.mit.edu/eapg/) and [Leonid Levitov](http://www.mit.edu/~levitov/).  
 
 For more, please see my [CV](samutpraphoot_cv_2022.pdf) and [Google Scholar](https://scholar.google.com/citations?user=TU4yHVYAAAAJ&hl=en) profile.
