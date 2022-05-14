@@ -5,7 +5,7 @@ permalink: /pubs/
 order: 2
 ---
 
-For more, please see my [CV](samutpraphoot_cv_2022.pdf) and my [Google Scholar](https://scholar.google.com/citations?user=TU4yHVYAAAAJ&hl=en) profile.
+For more, please see my [Google Scholar](https://scholar.google.com/citations?user=TU4yHVYAAAAJ&hl=en) profile.
 
 ## Papers
 

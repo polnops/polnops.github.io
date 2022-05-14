@@ -8,13 +8,25 @@ order: 1
  <!-- that take advantage of quantum physics, from computers to sensors.  -->
 
 <!-- Given the recent technological advances that make it possible to put quantum systems of tens to hundreds of qubits under control, the demand to connect and interface quantum systems is imminent.  -->
+### Telecom emitters in silicon photonics (ongoing project)
+Silicon not only plays a major role in semiconductor electronics but also
+offers tools to manipulate light in a scalable manner thanks to 
+the compability of photonic circuits fabrication with the advanced CMOS processes. 
+In this project, we introduce quantum emitters to silicon photonics, building an efficient interface between them that will enable on-chip quantum photonic 
+devices such as telecom single photon sources and 
+exploring possibilities of performing photonic quantum information processing
+with quantum emitters in integrated photonic circuits.
 
-### Interfacing atoms in optical tweezers with nanophotonics
+[<img src="/images/silicon_drawings.001.png" style="width: 85%; margin-left: 5%; margin-right: 10%; margin-top: 0.5em; margin-bottom: 1em;">](/images/silicon_drawings.001.png)
+
+
+
+### A nanophotonic interface for atoms in optical tweezers
 
 Atoms in tweezer arrays have recently emerged as a leading platform for quantum simulation and information processing. 
 As these systems are growing more complex, there is an increasing demand for optical interfaces to enable efficient readout and better connectivity. 
-We realized such interface using a nanophotonic cavity and demonstrated quantum control of two atoms strongly coupled to it. 
-In the most recent work, we entangled two atoms via the cavity and "shipped" the entangled atoms away from the system. 
+We realized such an interface using a nanophotonic cavity and demonstrated quantum control of two atoms strongly coupled to it. 
+In the most recent work, we entangled two atoms via the cavity and "shipped" the entanglement out of the system by transporting the atoms away. 
 
 [<img src="/images/fromfiber3.png" style="width: 85%; margin-left: 5%; margin-right: 10%; margin-top: 0.5em; margin-bottom: 1em;">](/images/fromfiber3.png)
 
@@ -63,7 +75,7 @@ P. Samutpraphoot |
 
 ### Narrow-linewidth lasers
 
-Lasers are the workhorse of modern atomic physics. Recent advances, from optical trapping and cooling to quantum control of atomic states, are enabled by the linewidth improvements of semiconductor diode lasers. In this work, we narrowed the linewidth of UV diode lasers by orders of magnitude using optical feedback from a long fiber cavity.
+Lasers are the workhorse of many disciplines. Recent advances in modern atomic physics, from optical trapping and cooling to quantum control of single atoms, are made possible by the advent of megahertz-linewidth diode lasers. In this work, we further narrowed UV diode lasers to the kilohertz level using optical feedback from a long fiber cavity.
 
 **Passive intrinsic-linewidth narrowing of ultraviolet extended-cavity diode laser by weak optical feedback** \
 P. Samutpraphoot, S. Weber, Q. Lin, D. Gangloff, A. Bylinskii, B. Braverman, A. Kawasaki, C. Raab, W. Kaenders, and V. Vuletić \
