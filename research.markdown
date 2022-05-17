@@ -12,9 +12,9 @@ order: 1
 Silicon not only plays a major role in semiconductor electronics but also
 offers tools to manipulate light in a scalable manner thanks to 
 its compatibility with the advanced CMOS processes. 
-In this project, we introduce quantum emitters to silicon photonics, building an efficient interface between them that will enable on-chip quantum photonic 
+In this project, we introduce quantum emitters to silicon photonics, to build an efficient interface between them that will enable on-chip quantum photonic 
 devices such as telecom single photon sources and 
-exploring possibilities of performing photonic quantum information processing
+explore possibilities of performing photonic quantum information processing
 with quantum emitters in integrated photonic circuits.
 
 [<img src="/images/silicon_drawings.001.png" style="width: 95%; margin-left: 0%; margin-right: 10%; margin-top: 0.5em; margin-bottom: 1em;">](/images/silicon_drawings.001.png)
