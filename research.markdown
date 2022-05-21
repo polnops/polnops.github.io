@@ -10,12 +10,13 @@ order: 1
 <!-- Given the recent technological advances that make it possible to put quantum systems of tens to hundreds of qubits under control, the demand to connect and interface quantum systems is imminent.  -->
 ### Telecom emitters in silicon photonics (ongoing project)
 Silicon not only plays a major role in semiconductor electronics but also
-offers tools to manipulate light in a scalable manner thanks to 
-its compatibility with the advanced CMOS processes. 
-In this project, we introduce quantum emitters to silicon photonics, to build an efficient interface between them that will enable on-chip quantum photonic 
-devices such as telecom single photon sources and 
-explore possibilities of performing photonic quantum information processing
-with quantum emitters in integrated photonic circuits.
+offers tools to manipulate information in the optical domain 
+in a scalable manner thanks to its compatibility with the advanced CMOS processes. 
+The ability to get photons to interact with each other, via quantum nonlinearity, 
+will be crucial in building quantum information processing devices such as all-optical transistors, single photon sources, and deterministic quantum logic. 
+We will introduce quantum emitters to silicon photonics, taking
+advantage of this mature platform to explore the possibility of building
+a new generation of integrated quantum photonics.
 
 [<img src="/images/silicon_drawings.001.png" style="width: 95%; margin-left: 0%; margin-right: 10%; margin-top: 0.5em; margin-bottom: 1em;">](/images/silicon_drawings.001.png)
 
@@ -23,10 +24,11 @@ with quantum emitters in integrated photonic circuits.
 
 ### A nanophotonic interface for atoms in optical tweezers
 
-Atoms in tweezer arrays have recently emerged as a leading platform for quantum simulation and information processing. 
-As these systems are growing more complex, there is an increasing demand for optical interfaces to enable efficient readout and better connectivity. 
-We realized such an interface using a nanophotonic cavity and demonstrated quantum control of two atoms strongly coupled to it. 
-In the most recent work, we entangled two atoms via the cavity and "shipped" the entanglement out of the system by transporting the atoms away. 
+Atoms in tweezer arrays have recently emerged as a leading platform for quantum information processing. As these systems are growing more complex, there is an increasing demand for optical interfaces to enable efficient readout and better connectivity. 
+We realized such an interface using a nanophotonic cavity and 
+demonstrated quantum control of two atoms strongly coupled to it. 
+In the most recent work, we entangled two atoms via the cavity and 
+"shipped" the entanglement out of the system by transporting the atoms away. 
 
 [<img src="/images/fromfiber3.png" style="width: 85%; margin-left: 5%; margin-right: 10%; margin-top: 0.5em; margin-bottom: 1em;">](/images/fromfiber3.png)
 
