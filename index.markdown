@@ -6,12 +6,10 @@ layout: home
 ---
 [<img src="/images/profile3.png" style="float: right; width: 30%; margin-left: 5%; margin-bottom: 0.5em;">](/images/profile3.png)
 
-I am an experimental physicist in quantum optics and nanophotonics. My research direction is to explore ways to interface different platforms, in particular atoms and photons, to enable new capabilities and perform bigger tasks
-in quantum information processing.
+I'm an experimental physicist and engineer with a background in photonics, quantum optics, and systems engineering. My work bridges fundamental research and practical technology, from building quantum optics experiments to developing a sensing device platform.
 
-I have been very fortunate to collaborate with teams of talented scientists. I did my postdoc work in the [Quantum Devices group](https://quantumdevices.berkeley.edu/) at [Berkeley EECS](https://eecs.berkeley.edu/), my PhD in [Misha Lukin's group](https://lukin.physics.harvard.edu/) at [Harvard Physics](https://www.physics.harvard.edu/),
-and my undergraduate studies at [MIT](https://web.mit.edu/), where I worked in the groups of [Vladan Vuletic](https://www.rle.mit.edu/eapg/) and [Leonid Levitov](http://www.mit.edu/~levitov/).  
+My previous research in quantum optics broadly falls under the theme of photonic integration of quantum systems. This includes integrating color centers with silicon photonics during my postdoc in Alp Sipahigil's [Quantum Devices group](https://quantumdevices.berkeley.edu/) at Berkeley EECS, and coupling cold atoms in optical tweezers to photonic crystal cavities during my PhD in [Misha Lukin's group](https://lukin.physics.harvard.edu/) at Harvard. As an undergraduate at MIT, I worked on atomic physics and condensed matter theory in the groups of [Vladan Vuletic](https://www.rle.mit.edu/eapg/) and [Leonid Levitov](http://www.mit.edu/~levitov/). 
 
-I am currently part of a team that develops a sensing device platform based on photonic integrated circuits at Apple Inc.
+Currently, I'm at Apple developing a sensing device platform based on photonic integrated circuits.
 
 For more, please see my [resume](samutpraphoot_resume_2025.pdf) and [Google Scholar](https://scholar.google.com/citations?user=TU4yHVYAAAAJ&hl=en) profile.
