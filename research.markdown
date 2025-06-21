@@ -8,7 +8,8 @@ order: 1
  <!-- that take advantage of quantum physics, from computers to sensors.  -->
 
 <!-- Given the recent technological advances that make it possible to put quantum systems of tens to hundreds of qubits under control, the demand to connect and interface quantum systems is imminent.  -->
-### Telecom emitters in silicon photonics (ongoing project)
+### Telecom emitters in silicon photonics
+
 Silicon not only plays a major role in semiconductor electronics but also
 offers tools to manipulate information in the optical domain 
 in a scalable manner thanks to its compatibility with the advanced CMOS processes. 
@@ -19,6 +20,10 @@ advantage of this mature platform to explore the possibility of building
 a new generation of integrated quantum photonics.
 
 [<img src="/images/silicon_drawings.001.png" style="width: 95%; margin-left: 0%; margin-right: 10%; margin-top: 0.5em; margin-bottom: 1em;">](/images/silicon_drawings.001.png)
+
+**Indistinguishable photons from an artificial atom in silicon photonics** \
+L. Komza, P. Samutpraphoot, M. Odeh, Y-L. Tang, M. Mathew, J. Chang, H. Song, M-K. Kim, Y. Xiong, G. Hautier, A. Sipahigil \
+[Nature Communications 15 (1), 6920 (2024).](https://www.nature.com/articles/s41467-024-51265-1); [arXiv:2211.09305](https://arxiv.org/abs/2211.09305).
 
 
 
@@ -33,11 +38,14 @@ In the most recent work, we entangled two atoms via the cavity and
 [<img src="/images/fromfiber3.png" style="width: 85%; margin-left: 5%; margin-right: 10%; margin-top: 0.5em; margin-bottom: 1em;">](/images/fromfiber3.png)
 
 
+**Control and entanglement of individual Rydberg atoms near a nanoscale device** \
+P. L. Ocola, I. Dimitrova, B. Grinkemeyer, E. Guardado-Sanchez, T. Đorđević, P. Samutpraphoot, V. Vuletić, M. D Lukin  \
+[Physical review letters 114 (25), 256601 (2024)](https://https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.113601);  [arXiv:2210.12879](https://arxiv.org/abs/2210.12879).
+
 **Entanglement transport and a nanophotonic interface for atoms in optical tweezers** \
 T. Ðorđević†, P. Samutpraphoot†, P. L. Ocola†, H. Bernien, B. Grinkemeyer, I. Dimitrova, 
 V. Vuletić, and M. D. Lukin \
 [Science 373, 1511 (2021).](https://www.science.org/doi/10.1126/science.abi9917); [arXiv:2105.06485](https://arxiv.org/abs/2105.06485).
-
 
 >Perspective article on this work:\
 **Photons and qubits get a better connection** \
@@ -53,7 +61,7 @@ P. Samutpraphoot |
 
 
 
-### Valley transport in topological Dirac materials (theory)
+### Valley transport in topological Dirac materials
 
 [<img src="/images/figintro.001.png" style="float: right; width: 52.5%;  margin-bottom: 0.25em;">](/images/figintro.001.png)
 
@@ -75,9 +83,13 @@ P. Samutpraphoot |
 [Thesis](https://dspace.mit.edu/handle/1721.1/92691): S.B., Massachusetts Institute of Technology, Department of Physics, 2014.
 
 
-### Narrow-linewidth lasers
+### Laser development
 
-Lasers are the workhorse of many disciplines. Recent advances in modern atomic physics, from optical trapping and cooling to quantum control of single atoms, are made possible by the advent of megahertz-linewidth diode lasers. In this work, we further narrowed UV diode lasers to the kilohertz level using optical feedback from a long fiber cavity.
+Lasers are the workhorse of many disciplines, from atomic physics to sensing In the following work, we build 1. a laser system with kHz-linewidth and 2. an optically programmable laser array, both of which are based on fiber optics. 
+
+**Three-dimensional programming of nanolaser arrays through a single optical microfiber** \
+D. I. Song, A. Yu, P. Samutpraphoot, J. Lee, M. Kim, B. J. Park, A. Sipahigil, M.-Ki Kim \
+[Optica 9 (12), 1424-1432 (2022)](https://opg.optica.org/optica/fulltext.cfm?uri=optica-9-12-1424&id=524314)
 
 **Passive intrinsic-linewidth narrowing of ultraviolet extended-cavity diode laser by weak optical feedback** \
 P. Samutpraphoot, S. Weber, Q. Lin, D. Gangloff, A. Bylinskii, B. Braverman, A. Kawasaki, C. Raab, W. Kaenders, and V. Vuletić \

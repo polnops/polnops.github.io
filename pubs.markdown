@@ -9,6 +9,21 @@ For more, please see my [Google Scholar](https://scholar.google.com/citations?us
 
 ## Papers
 
+**Indistinguishable photons from an artificial atom in silicon photonics** \
+L. Komza, P. Samutpraphoot, M. Odeh, Y-L. Tang, M. Mathew, J. Chang, H. Song, M-K. Kim, Y. Xiong, G. Hautier, A. Sipahigil \
+[Nature Communications 15 (1), 6920 (2024).](https://www.nature.com/articles/s41467-024-51265-1); [arXiv:2211.09305](https://arxiv.org/abs/2211.09305).
+
+
+**Control and entanglement of individual Rydberg atoms near a nanoscale device** \
+P. L. Ocola, I. Dimitrova, B. Grinkemeyer, E. Guardado-Sanchez, T. Đorđević, P. Samutpraphoot, V. Vuletić, M. D Lukin  \
+[Physical review letters 114 (25), 256601 (2024)](https://https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.113601);  [arXiv:2210.12879](https://arxiv.org/abs/2210.12879).
+
+
+**Three-dimensional programming of nanolaser arrays through a single optical microfiber** \
+D. I. Song, A. Yu, P. Samutpraphoot, J. Lee, M. Kim, B. J. Park, A. Sipahigil, M.-Ki Kim \
+[Optica 9 (12), 1424-1432 (2022)](https://opg.optica.org/optica/fulltext.cfm?uri=optica-9-12-1424&id=524314)
+
+
 **Entanglement transport and a nanophotonic interface for atoms in optical tweezers** \
 T. Ðorđević†, P. Samutpraphoot†, P. L. Ocola†, H. Bernien, B. Grinkemeyer, I. Dimitrova,
 V. Vuletić, and M. D. Lukin \
