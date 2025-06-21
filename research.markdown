@@ -30,10 +30,10 @@ L. Komza, P. Samutpraphoot, M. Odeh, Y-L. Tang, M. Mathew, J. Chang, H. Song, M-
 ### A nanophotonic interface for atoms in optical tweezers
 
 Atoms in tweezer arrays have recently emerged as a leading platform for quantum information processing. As these systems are growing more complex, there is an increasing demand for optical interfaces to enable efficient readout and better connectivity. 
-We realized such an interface using a nanophotonic cavity and 
-demonstrated quantum control of two atoms strongly coupled to it. 
-In the most recent work, we entangled two atoms via the cavity and 
-"shipped" the entanglement out of the system by transporting the atoms away. 
+We realize such an interface using a nanophotonic cavity and 
+demonstrate quantum control of two atoms strongly coupled to it. 
+In the most recent work, we entangle two atoms at the cavity and 
+"ship" the atoms out and verfy that they remain entangled away from the cavity. 
 
 [<img src="/images/fromfiber3.png" style="width: 85%; margin-left: 5%; margin-right: 10%; margin-top: 0.5em; margin-bottom: 1em;">](/images/fromfiber3.png)
 
@@ -84,8 +84,6 @@ P. Samutpraphoot |
 
 
 ### Laser development
-
-Lasers are the workhorse of many disciplines, from atomic physics to sensing In the following work, we build 1. a laser system with kHz-linewidth and 2. an optically programmable laser array, both of which are based on fiber optics. 
 
 **Three-dimensional programming of nanolaser arrays through a single optical microfiber** \
 D. I. Song, A. Yu, P. Samutpraphoot, J. Lee, M. Kim, B. J. Park, A. Sipahigil, M.-Ki Kim \
