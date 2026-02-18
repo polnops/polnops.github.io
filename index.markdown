@@ -12,4 +12,4 @@ My previous research in quantum optics broadly falls under the theme of photonic
 
 Currently, I'm at Apple developing a sensing device platform based on photonic integrated circuits.
 
-For more, please see my [resume](samutpraphoot_resume_2025.pdf) and [Google Scholar](https://scholar.google.com/citations?user=TU4yHVYAAAAJ&hl=en) profile.
+For more, please see my [CV](samutpraphoot_CV.pdf) and [Google Scholar](https://scholar.google.com/citations?user=TU4yHVYAAAAJ&hl=en) profile.
